@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chandu4453
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning javascript and backend
+- 🌱 I’m currently learning backend development.
 - 💞️ I’m looking to collaborate on developing cool websites
 - 📫 How to reach me
 - gmail :keshavchander100@gmail.com
